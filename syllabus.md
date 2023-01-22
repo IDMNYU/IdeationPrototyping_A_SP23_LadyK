@@ -4,7 +4,7 @@
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Katherine Bennett • Katherine.Bennett@nyu.edu • Spring 2022 
-    Monday & Wednesday • 2:00PM-3:50PM • remote 
+    Monday & Wednesday • 2:00PM-3:50PM • in person
     Virtual Office Hours: by appointment; Message me in Slack. I am available after class.
     
 
