@@ -177,7 +177,7 @@ There will be discrete team and individual exercises and projects that require y
 * Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
 * Each student will be judged on the commitment, fearlessness, and _continuous improvement_ that their work shows over the course of the semester. You will be given feedback as to how to tune the direction of your work. Everyone one will be different. This is wonderful! And perfectly fine! Yet, it's up to you to read the feedback, be receptive to feedback, and tune your work appropriately. 
 
-If your work is not developing with multiple sizeable strides that demonstrate depth, your grade will be below satisfactoryy. It is up to you to be open, put in the research and work, to be imploring with your feedback and to communicate your work as advised.
+If your work is not developing with multiple sizeable strides that demonstrate depth, your grade will be below satisfactory. It is up to you to be open, put in the research and work, to be imploring with your feedback and to communicate your work as advised.
 
 I am looking at your development, depth, receptivity, fearlessness, communication/ability to express your ideas and be a strong member of our class community.
 

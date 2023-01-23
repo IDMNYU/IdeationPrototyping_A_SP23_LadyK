@@ -1,5 +1,5 @@
 ### DM-UY 1143 A Ideation and Prototyping
-##### Spring 2023 • Katherine Bennett • Mon/Wed 14:00-15:50 • In-person
+##### Spring 2023 • Katherine Bennett • Mon/Wed 14:00s-15:50 • In-person
 
 ###### Read 
 
