@@ -51,8 +51,9 @@ To get students to:
 *   develop skills of description, research, analysis, visualization, design and critical thinking.
 *   improve writing, documentation, and presentation skills
 *   facilitate collaboration
-* 	understand what it means to develop a practice, which indicates development strides of leaps and bounds, unforseen at the onset of the process
-*	take risks and experiment; developing a healthy sense of curosity
+* 	understand what it means to develop a practice, which indicates development strides of leaps and bounds, unforeseen at the onset of the process
+*	take risks and experiment; developing a healthy sense of curiosity
+
 
 
 ### LEARNING OUTCOMES
@@ -132,10 +133,10 @@ There will be discrete team and individual exercises and projects that require y
 * Do. not. do. your. homework. in. one. sitting. Do not do it all the night before its due. Start it early to give yourself time to ask questions and get answers. Review the Letters to The Next CoHort!
 * Give your classmates constructive feedback. Don't be passive in critiques or take it personally. Push everyone's ideas further.
 * Action – do your _absolute_ best
-* Make peace with the fact that your best one day, may not be the best on another day. One's best fluxuates. That's okay. It's normal and part of life.
+* Make peace with the fact that your best one day, may not be the best on another day. One's best fluctuates. That's okay. It's normal and part of life.
 * Strive for continuous improvement
 * Direct message me on slack re: contact about logistics (when, where, how many?) only
-* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
+* Talk to me in person about issues and problems. Do not direct message me with long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have patience, persistence, and discipline 
 * Be creative. There are a million forms of creativity. Find yours.
@@ -155,7 +156,7 @@ There will be discrete team and individual exercises and projects that require y
 
 * At any time during the semester, if you have symptoms of COVID, come in contact with someone that has COVID, or have a COVID diagnosis, [you must fill out this form](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT)
 
-* If you find yourself in the situation above, you are still responsible for the course material, and to watch the course material within 48 hours of it's posting (on BrightSpace). All assignments are still due on time. If you need accomodations, you must communicate with me as well as the Coordinator of Student Advocacy and Compliance office at (eng.studentadvocate@nyu.edu & deanna.rayment@nyu.edu, 646.997.3046).
+* If you find yourself in the situation above, you are still responsible for the course material, and to watch the course material within 48 hours of it's posting (on BrightSpace). All assignments are still due on time. If you need accommodations, you must communicate with me as well as the Coordinator of Student Advocacy and Compliance office at (eng.studentadvocate@nyu.edu & deanna.rayment@nyu.edu, 646.997.3046).
 
 
 ###### Attendance (continued)
@@ -163,7 +164,7 @@ There will be discrete team and individual exercises and projects that require y
 * Attendance is mandatory. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential. I cannot stress this enough. You must attend class to ensure that you are understanding how to work. I cover how to do the assignments in class, when they are assigned.
 * Unexcused absences will affect your grade, after 3 of them. 
 * Feedback sessions cannot be made up.
-* Be on Time. Tardiness will affect your grade. For every 3 tardies (15 minutes or more), you accure an absence. See above
+* Be on Time. Tardiness will affect your grade. For every 3 tardies (15 minutes or more), you accrue an absence. See above
 * Contact the professor IN ADVANCE if you will not be in class (via direct message on slack is preferred).
 * Attendance is mandatory for the midterm and final presentations / critiques. No exceptions. Critiques can not be made up.
 * Work is still due on due dates, regardless of whether you are in class or not.
@@ -176,11 +177,11 @@ There will be discrete team and individual exercises and projects that require y
 * Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
 * Each student will be judged on the commitment, fearlessness, and _continuous improvement_ that their work shows over the course of the semester. You will be given feedback as to how to tune the direction of your work. Everyone one will be different. This is wonderful! And perfectly fine! Yet, it's up to you to read the feedback, be receptive to feedback, and tune your work appropriately. 
 
-If your work is not developing with multiple sizeable strides that demonstrate depth, your grade will be below satisifactory. It is up to you to be open, put in the research and work, to be imploring with your feedback and to communicate your work as advised.
+If your work is not developing with multiple sizeable strides that demonstrate depth, your grade will be below satisfactoryy. It is up to you to be open, put in the research and work, to be imploring with your feedback and to communicate your work as advised.
 
 I am looking at your development, depth, receptivity, fearlessness, communication/ability to express your ideas and be a strong member of our class community.
 
-Incomplete or unsatisfactory work (lacking depth and noteable development strides) will receive a below satisifactory grade, after one has not addressed it in a reasonable period of time.
+Incomplete or unsatisfactory work (lacking depth and notable development strides) will receive a below satisfactory grade, after one has not addressed it in a reasonable period of time.
 
 
 ##### Quantitative Grading Overview
@@ -231,18 +232,18 @@ blocks. Thus, they cannot be skipped as you will not have the pieces to work wit
 
 Process sites are reviewed and assessed weekly. Work is due on **Sundays by 2pm EST.** You are welcome to post it earlier than this. Work posted after that will go towards the following week, and be reviewed next Sunday evening. This put you behind, as your work will not be reviewed in time. A record is made for the missing work, as this effects your overall grade and your opportunity to progress.
 
-Late work beyond two weeks is submitted only under the advisement of the professor. Please contact me to discuss this with me. It's critical to stategize. I will advise you how to move through the material. Office hours are great for this.
+Late work beyond two weeks is submitted only under the advisement of the professor. Please contact me to discuss this with me. It's critical to strategize. I will advise you how to move through the material. Office hours are great for this.
 
 
 ##### Special Note about work for this class:
 
-These are large projects which develop over _a series of weeks_. Each week they are assessed for their development and strides from the previous weeks. As with any process, time inbetween completion of work allows for the development of the project. Hence forth, "cram sessions" are worthless here. If you see the assignments as check lists, you are in grave danger. If you think you can do 3 or 4 weeks of work in half the time, you are mistaken and have missed the value of this course. You are also wasting your valuable time. This isn't a course, that you can "catch up with".
+These are large projects which develop over _a series of weeks_. Each week they are assessed for their development and strides from the previous weeks. As with any process, time in between completion of work allows for the development of the project. Hence forth, "cram sessions" are worthless here. If you see the assignments as check lists, you are in grave danger. If you think you can do 3 or 4 weeks of work in half the time, you are mistaken and have missed the value of this course. You are also wasting your valuable time. This isn't a course, that you can "catch up with".
 
 Furthermore, if you leave all of the work to one day, you will struggle with the course. Time and time again students have mentioned that this made a huge difference in managing the course. Once the stopped doing work the night before, and also broke the assignments up over time, did they finally see the development strides. Breaks are good. Cramming is not.
 
 The lowest possible grade is an F, provided there is work to assess. If there is no work to assess, a zero (0) will be given. 
 
-Students who are below satisifactory will be given feedback in Slack via direct message. It is up to you to respond to the directives. Students who are endangered of failing will be notifed via Slack and email. Be mindful and check Slack, especially around the last day to withdrawl.
+Students who are below satisfactory will be given feedback in Slack via direct message. It is up to you to respond to the directives. Students who are endangered of failing will be notified via Slack and email. Be mindful and check Slack, especially around the last day to withdraw.
 
 ### ACADEMIC Integrity
 
@@ -263,13 +264,13 @@ Faculty can provide course accommodations/modifications only after receipt of an
 
 
 ### REQUIRED SUPPLIES
-*   A physical Sketchbook and 3-7 drawing tools. I like Moleskines or something similiar. See [Sketchbook Work](Sketchbook.md) for more details.
+*   A physical Sketchbook and 3-7 drawing tools. I like Moleskines or something similar. See [Sketchbook Work](Sketchbook.md) for more details.
 *	A physical planner. See [Planners and Journals](Planners.md)
 *   Digital Camera (You can also use a smart phone.)
 *   Access to Netflix (for two videos)
 *   Digital Storage (Thumb Drives or External Hard Drive, Laptop, etc)
 * 	Youtube or Vimeo Account
-*   paper, scissors+/craft knife, hot glue + gun, tape, toothpicks, popsicle sticks, string, cardboard (save your amazon boxes, etc), legos, tinkertoys, wood, etc.
+*   paper, scissors/craft knife, hot glue + gun, tape, toothpicks, popsicle sticks, string, cardboard (save your amazon boxes, etc), legos, tinkertoys, wood, etc.
 * [Show Your Work by Austin Kleon](https://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1533236421&sr=1-1&keywords=austin+kleon)
 * [Don't Read This Book: Time Management for Creative People by Donald Roos](https://www.amazon.com/Dont-Read-This-Book-Management-ebook/dp/B075F8B5BF)
 * [Drawing Ideas by Mark Baskinger and William Bardel](https://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627) 
