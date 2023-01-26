@@ -1,5 +1,5 @@
 ### DM-UY 1143 A Ideation and Prototyping
-##### Spring 2022 • Katherine Bennett • Mon/Wed 2:00PM-3:50PM • In-person
+##### Spring 2023 • Katherine Bennett • Mon/Wed 2:00PM-3:50PM • In-person
 
 # Care Package
 
@@ -14,3 +14,5 @@ Include audio narration or written commentary, using your smart phone or video c
 Be sure to include a short narration (written or audio) talking about what each item is and why you chose it.
 
 Post this narration and images of the *actual* items to your site. Do not use generic images from the web. Show us images of your actual object.
+
+#### Post this under Early Other Assignments on your Process Site. Please put all the contant in one post.
