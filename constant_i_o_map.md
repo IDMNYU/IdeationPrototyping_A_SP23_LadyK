@@ -15,7 +15,7 @@ Note: If you want to learn a medium in order to generate something, this would s
 
 As a result, branch out of each possibility exploring each further. What would you create? Can it take different forms? Are there derivatives? What do you need to learn in order to generate this? Be specific. Also explore what resources you need to generate this output.
 
-Take pictures of your maps, including close ups. Be ready to post these to your process site.
+Take pictures of your maps, including close ups. Make sure they are clear and good! Be ready to post these to your process site.
 
 * Pen and paper 
 * Dry Erase board

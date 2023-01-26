@@ -21,7 +21,7 @@ The goals of this assignment:
 * (2) To design a mechanism with which to present that information VISUALLY (BRAINSTORM, REMIX, DESIGN, VISUALIZE, SHAPE, FORM, CONNECT, BUILD). Remember to sketch ideas and concepts first in order to explore them.
 
 
-Post this to your site. This includes research notes, questionaires, survey documents, images, sketches, brainstorms, etc. It's important to show all documents that tell the story of your process.
+Post this to your site under "Early Other Assignments". This includes research notes, questionaires, survey documents, images, sketches, brainstorms, etc. It's important to show all documents that tell the story of your process.
 
 You pick the form or metaphor (NOT limited to): 
 * a subway map, 
