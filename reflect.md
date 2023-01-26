@@ -1,6 +1,5 @@
 ### DM-UY 1143 A Ideation and Prototyping
-##### Spring 2023 • Katherine Bennett • Mon/Wed 14:00-15:50 • In-person
-
+##### Spring 2022 • Katherine Bennett • Mon/Wed 2:00PM-3:50PM 
 
 
 
@@ -13,6 +12,6 @@
 Here are some others that are not so good. (link forthcoming)
 
 
-#### Prescribed books (read independently) tips:
+#### Reflection tips (ie prompts) for the required text books 
 
-<a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/Book_Reflections.md"> tips </a>
+<a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/Book_Reflections.md"> Examples can be found here.</a>

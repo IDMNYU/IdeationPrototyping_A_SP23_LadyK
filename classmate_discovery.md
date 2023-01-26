@@ -1,14 +1,14 @@
 ### DM-UY 1143 A Ideation and Prototyping
-##### Spring 2022 • Katherine Bennett • Mon/Wed 2:00PM-3:50PM • 370 Jay Room 309
+##### Spring 2023 • Katherine Bennett • Mon/Wed 2:00PM-3:50PM • 370 Jay Room 311
 
 ### Critical aspects of this course, are diverse and multifareous forms of reasearch; as well as creative methods to communicate and present information. This assignment is a first pass at both of those aspects.
 
 
 # Classmate Discovery
 
-##### Research Part 1 (initial research + design of additional research mechanisms): Feb 6
-##### Research (result of additional reseach mechanisms): Feb 13
-##### Visual Map (including sketches): Feb 13
+##### Research Part 1 (initial research + design of additional research mechanisms): 
+##### Research (result of additional reseach mechanisms): 
+##### Visual Map (including sketches): 
 
 Using your classmate's care package, input map, constant input/output choices assignments and social media presences, supplemented with an interview, questionnaire, or survey, **create a visual map that represents a classmates’ background, training, discipline, and personal circumstances that led them to where they are today and where they are going.** Show cross-references (when you can). This visual map should be thoughtful, considerate and informed by your research.
 
