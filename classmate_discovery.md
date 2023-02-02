@@ -10,6 +10,7 @@
 ### *Stage 1: Feb 12*
 ### *Stage 2: Feb 19*
 ### *Stage 3: Feb 26*
+__________________________________________
 
 ### Overview:
 
@@ -33,26 +34,28 @@ ____________________________________________
 
 6. Set up a time to "meet" with your partner within the next 5 days, as well as scheduling in the other research activities.
 
+<br> <br> <br> 
 
 ### Stage Two: Conduct Survey/Questionaire and UMR Methods   *Due Feb 19*
 
 1. Write a reflection of the outcome. Post any documentation, images and/or sketches that have transpired since the previous stage.
 
+<br> <br> <br> 
 
 ### Stage Three: Brainstorm & Ideate about the map metaphor    *Due Feb 26*
 
 1. Considering your research from Stage 1 & 2, conduct 2-3 brainstorming or ideation exercises that we have discussed in class _regarding the map metaphor_. This could be "How might we...", 5 Why's, Bad Idea Brainstorm, or Crazy Eights. Mind-map different mechanisms. Go deeper to explore each. Sketch and post about these. Give us context.
 
-Some examples/ideas are (but NOT limited to): 
-* a subway map, 
-* a territory map, 
-* a thematic network, 
-* user journey map, 
-* a table of contents of a book, 
-* an index in the back of a book,
-* a menu on a webpage, 
-* a tree, 
-* etc
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Some examples/ideas are (but NOT limited to): 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * a subway map, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * a territory map, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * a thematic network, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * user journey map, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * a table of contents of a book, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * an index in the back of a book,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * a menu on a webpage, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * a tree, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * etc
 
 
 2. These exercises should help you have a wide vocabulary to choose from, in creating this metaphor. Sketch ideas and concepts first in order to explore them. 
@@ -61,6 +64,7 @@ Some examples/ideas are (but NOT limited to):
 
 5. Post the documentation from your process above, and write a short reflection about it.
 
+<br> <br> <br> 
 
 ### The goals of this assignment:
 
