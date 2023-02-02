@@ -122,10 +122,31 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <ul>
         <li><a href = "classmate_discovery.md">Classmate Discovery Stage 2</a></li>
-         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site under Sketchbook</li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk4.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
         </td><tr>
+<td valign="top">wk 5<p>Feb 22 & Feb 27</p></td>
+    <td valign="top"> 
+        <ul>
+        <li> </li>
+        <li>Discuss: <a href = "classmate_discovery.md">Classmate Discovery Stage 2: </li>
+        <li> Discussion <a href = "Future.md"> The Future Project </a> </li>
+        <li> </li>
+        </ul>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li> Show Your Work </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "classmate_discovery.md">Classmate Discovery Stage 3</a></li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td><tr>            
 
 
 </table>

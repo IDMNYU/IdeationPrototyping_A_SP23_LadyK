@@ -28,7 +28,7 @@ ____________________________________________
 
 3. Design a thoughtful questionaire or survey based on this research. 
 
-4. Review the Universal Methods of Research (UMR) found in Slack. Adopt 2-3 methods of research to learn more about your assigned classmate. Formulate these to be appropriate to your classmate. For example, specific photo diary prompts (hardest part of their morning, most delightful part of day, most trusted friend, etc); going to their favorite places and studying those locations for 30 minutes noting observations and details; shadowing your partner through various locations of their day that you are not familiar with. 
+4. Review the Universal Methods of Research (UMR) found in Slack. Adopt 2-3 methods of research to learn more about your assigned classmate. Formulate these to be appropriate to your classmate. For example, specific photo diary prompts (hardest part of their morning, most delightful part of day, most trusted friend, etc); going to their favorite places and studying those locations for 30 minutes noting observations and details; shadowing your partner through various locations of their day that you are not familiar with. Figure out which ones you are going to do. Design them. Plan when you are going to execute them.
 
 5. Post the questionaire/survey, and the layout/plans for the 2-3 UMR methods that you are going to undertake. Tell me about your plans and write a small reflection of what you are thinking and where you are at, after doing the above.
 
