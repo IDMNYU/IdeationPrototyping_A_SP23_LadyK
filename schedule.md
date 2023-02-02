@@ -96,10 +96,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <li>Review Homework</li>
 </td>  
     <td valign="top">
-        <ul> Read: 
+        <ul>Read: </ul>
             <li> Show Your Work </li>
         </ul>
-    <ul> Do: 
+    <ul>Do: </ul>
     <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
 <li><a href = "classmate_discovery.md">Classmate Discovery Stage 1: Research</a></li> </ul>
@@ -113,10 +113,13 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li> Introduction of <a href = "Future.md"> The Future Project </a> </li>
         <li> Investing The Future in-class exercise </li>
         </ul>
-        <ul> Read: 
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
             <li> Show Your Work </li>
         </ul>
-    <li> Do: </li>
+    <li>Do:</li>
     <ul>
         <li><a href = "classmate_discovery.md">Classmate Discovery Stage 2</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site under Sketchbook</li>
