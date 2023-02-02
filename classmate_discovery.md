@@ -7,18 +7,19 @@
 # Classmate Discovery
 
 ## Delivery dates:
-## Stage 1: Feb 12
-## Stage 2: Feb 19
-## Stage 3: Feb 26
+### *Stage 1: Feb 12*
+### *Stage 2: Feb 19*
+### *Stage 3: Feb 26*
 
 ### Overview:
 
-You are to "discover" your classmate which you are paired with. Use a variety of research methods (see below) to design & create a visual map that represents them given their background, training, discipline, and personal circumstances that led them to where they are today and where they are going. This visual map metaphor should be thoughtful, considerate and informed by your research and ideation process. It should not be chosen blindly. 
+> You are to "discover" your classmate which you are paired with. Use a variety of research methods (see below) to design & create a visual map that represents them given their background, training, discipline, and personal circumstances that led them to where they are today and where they are going. This visual map metaphor should be thoughtful, considerate and informed by your research and ideation process. It should not be chosen blindly. 
+>
+> Document the entire process. Remember this class is all about the process. Show all of the drawings, sketches, notes, documents, and materials. Post to your Process site under "Early Other Assignments." </p>
 
-Document the entire process. Remember this class is all about the process. Show all of the drawings, sketches, notes, documents, and materials. Post to your Process site under "Early Other Assignments."
+____________________________________________
 
-
-#### Stage One: Research  Due Feb 12
+### Stage One: Research  *Due Feb 12*
 
 1. Review your classmate's care package, input map, constant input/output choices assignments and social media presences. Take notes.
 
@@ -33,12 +34,12 @@ Document the entire process. Remember this class is all about the process. Show 
 6. Set up a time to "meet" with your partner within the next 5 days, as well as scheduling in the other research activities.
 
 
-#### Stage Two: Conduct Survey/Questionaire and UMR Methods   Due Feb 19
+### Stage Two: Conduct Survey/Questionaire and UMR Methods   *Due Feb 19*
 
 1. Write a reflection of the outcome. Post any documentation, images and/or sketches that have transpired since the previous stage.
 
 
-#### Stage Three: Brainstorm & Ideate about the map metaphor    Due Feb 26
+### Stage Three: Brainstorm & Ideate about the map metaphor    *Due Feb 26*
 
 1. Considering your research from Stage 1 & 2, conduct 2-3 brainstorming or ideation exercises that we have discussed in class _regarding the map metaphor_. This could be "How might we...", 5 Why's, Bad Idea Brainstorm, or Crazy Eights. Mind-map different mechanisms. Go deeper to explore each. Sketch and post about these. Give us context.
 
@@ -70,4 +71,4 @@ Some examples/ideas are (but NOT limited to):
 * (3) Design the mechanism with which to present that information VISUALLY (BRAINSTORM, REMIX, DESIGN, VISUALIZE, SHAPE, FORM, CONNECT, BUILD).
 
 
-Post this to your site under "Early Other Assignments". This includes research notes, questionaires, survey documents, images, sketches, brainstorms, etc. It's important to show ALL the documents that tell *the story of your process*. <--- This is what I'm ultimately grading.
+ > Post this to your site under "Early Other Assignments". This includes research notes, questionaires, survey documents, images, sketches, brainstorms, etc. It's important to show ALL the documents that tell *the story of your process*. <--- This is what I'm ultimately grading.
