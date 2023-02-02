@@ -74,9 +74,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
     <li> Do: </li>
     <ul>
-        <li><a href = "Care_Package.md">Care Packages </a>and post it under "ClassMate Discovery tab" on your Process site (if you have not already done so)</li>
+        <li><a href = "Care_Package.md">Care Packages </a>and post it under "Early and Other Assignments" on your Process site (if you have not already done so)</li>
         <li><a href = "input_map.md">Personal Input Map</a> and post it under "ClassMate Discovery tab" on your Process site (if you have not already done so)</li> 
-        <li><a href = "classmate_discovery.md">Classmate Discovery Part 1: Research</a></li>
+        <li><a href = "classmate_discovery.md">Classmate Discovery Stage 1: Research</a></li>
         <li>Post to your <a href= "constant_input_output.md">constant input/output</a> details to your process website: Use the bug exercise to go deeper. Perhaps even do a second mind map. I'd like you to get to the specific points to answer the following: What are you going to do? What does this mean? What SPECIFIC resources are you going to utilize? What is the next step? What is the step after that? Include your proposed schedule (when? actual dates. Make the due dates Sundays - 2pm EST.) Post to your process website, under constant input/output tab. Also, gather and secure the resources you need to work.</li>
         <li> Post your <a href = "SketchBook_wk2.md"> sketchbook </a>work to your Process site under the "sketchbook" tab.</li>
         <li><a href ="Time_Management_System.md">Time Management System</a></li>
@@ -88,6 +88,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
         <li>Discuss: </li>
     <ul>
+         <li><a href = "classmate_discovery.md">Classmate Discovery Stage 1: Research</a></li>
         <li><a href = "SketchBook_wk3.md">Discuss sketchbook</a>assignment</li>
         <li><a href = "Time_Management_System.md"> Time Management System Assignment </a></li>
         <li> Discuss User Studies & The Pocket Universal Methods of Design (TPUMoD) </li>
@@ -95,15 +96,34 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <li>Review Homework</li>
 </td>  
     <td valign="top">
-        <ul> Read <br>
+        <ul> Read: 
             <li> Show Your Work </li>
         </ul>
-    <ul> Do: <br>
-    <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site under Sketchbook</li>
+    <ul> Do: 
+    <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-<li><a href = "classmate_discovery.md">Classmate Discovery Part 2: Generate</a></li> </ul>
+<li><a href = "classmate_discovery.md">Classmate Discovery Stage 1: Research</a></li> </ul>
 </td>
 </tr>
+<td valign="top">wk 4<p>Feb 13 & Feb 15</p></td>
+    <td valign="top"> 
+        <ul>
+        <li> Watch Everything is a Remix </li>
+        <li>Discuss: <a href = "classmate_discovery.md">Classmate Discovery Stage 1: Research</a></li>
+        <li> Introduction of <a href = "Future.md"> The Future Project </a> </li>
+        <li> Investing The Future in-class exercise </li>
+        </ul>
+        <ul> Read: 
+            <li> Show Your Work </li>
+        </ul>
+    <li> Do: </li>
+    <ul>
+        <li><a href = "classmate_discovery.md">Classmate Discovery Stage 2</a></li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site under Sketchbook</li>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td><tr>
+
 
 </table>
 

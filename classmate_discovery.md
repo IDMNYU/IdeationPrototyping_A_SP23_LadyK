@@ -6,34 +6,43 @@
 
 # Classmate Discovery
 
-##### Research Part 1 (initial research + design of additional research mechanisms): Feb 5
-##### Research (result of additional reseach mechanisms): Feb 5
-##### Visual Map (including sketches): Feb 12
+## Delivery dates:
+## Stage 1: Feb 12
+## Stage 2: Feb 19
+## Stage 3: Feb 26
 
-Using your classmate's care package, input map, constant input/output choices assignments and social media presences research, supplemented with an interview, questionnaire, or survey, **create a visual map that represents a classmates’ background, training, discipline, and personal circumstances that led them to where they are today and where they are going.** Show cross-references (when you can). This visual map should be thoughtful, considerate and informed by your research.
+### Overview:
 
-This is a 2 part assignment.
+You are to "discover" your classmate which you are paired with. Use a variety of research methods (see below) to design & create a visual map that represents them given their background, training, discipline, and personal circumstances that led them to where they are today and where they are going. This visual map metaphor should be thoughtful, considerate and informed by your research and ideation process. It should not be chosen blindly. 
 
-The goals of this assignment:
-
-* (1) To gather a wide variety of information, through various means (RESEARCH, COLLECT, ABSORB... see below for directives and ideas). See the Universal Methods of Research to broaden your research mechanisms. I'm looking for you to stretch and to develop your skills beyond their current limits. 
-
-As a result of your research, what questions do you have for your interviewee when you meet? Post these. Your research and questions should be evident from your research (not just general ones.) This could even be documented through a mind-map.
-
-Document this and post this. Give me a small reflection summary of where you are at/what you are thinking after your research.
-
-* (2) Post interview gatherine: Show your process for thinking of a mechanism to describe this person. Your reseach should be informing this process. Do the 5W, 5WH, Bad Idea brainstorm (and flip it), or Bug, or any combination of these, to give a greater context to finding your metaphor or context.
-
-* Mind-map different mechanisms. Go deeper to explore each. Sketch and post about these. Give us context.
-
-* (3) Design the mechanism with which to present that information VISUALLY (BRAINSTORM, REMIX, DESIGN, VISUALIZE, SHAPE, FORM, CONNECT, BUILD). Remember to sketch ideas and concepts first in order to explore them.
+Document the entire process. Remember this class is all about the process. Show all of the drawings, sketches, notes, documents, and materials. Post to your Process site under "Early Other Assignments."
 
 
-Post this to your site under "Early Other Assignments". This includes research notes, questionaires, survey documents, images, sketches, brainstorms, etc. It's important to show all documents that tell the story of your process.
+#### Stage One: Research  Due Feb 12
 
-You pick the form or metaphor! Brainstorm what this is. It should make sense to your subject.
+1. Review your classmate's care package, input map, constant input/output choices assignments and social media presences. Take notes.
 
-Some ideas are (but NOT limited to): 
+2. Read the Terry Gross article on how to create interview (See the link in the [schedule](schedule.md).
+
+3. Design a thoughtful questionaire or survey based on this research. 
+
+4. Review the Universal Methods of Research (UMR). Adopt 2-3 methods of research to learn more about your assigned classmate. Formulate these to be appropriate to your classmate. For example, specific photo diary prompts (hardest part of their morning, most delightful part of day, most trusted friend, etc); going to their favorite places and studying those locations for 30 minutes noting observations and details; shadowing your partner through various locations of their day that you are not familiar with. 
+
+5. Post the questionaire/survey, and the layout/plans for the 2-3 UMR methods that you are going to undertake. Tell me about your plans and write a small reflection of what you are thinking and where you are at, after doing the above.
+
+6. Set up a time to "meet" with your partner within the next 5 days, as well as scheduling in the other research activities.
+
+
+#### Stage Two: Conduct Survey/Questionaire and UMR Methods   Due Feb 19
+
+1. Write a reflection of the outcome. Post any documentation, images and/or sketches that have transpired since the previous stage.
+
+
+#### Stage Three: Brainstorm & Ideate about the map metaphor    Due Feb 26
+
+1. Considering your research from Stage 1 & 2, conduct 2-3 brainstorming or ideation exercises that we have discussed in class _regarding the map metaphor_. This could be "How might we...", 5 Why's, Bad Idea Brainstorm, or Crazy Eights. Mind-map different mechanisms. Go deeper to explore each. Sketch and post about these. Give us context.
+
+Some examples/ideas are (but NOT limited to): 
 * a subway map, 
 * a territory map, 
 * a thematic network, 
@@ -45,11 +54,20 @@ Some ideas are (but NOT limited to):
 * etc
 
 
+2. These exercises should help you have a wide vocabulary to choose from, in creating this metaphor. Sketch ideas and concepts first in order to explore them. 
 
-##### Gathering Information/Research
+4. Pick a metaphor and design it! Produce the final result compiling your design with your research.
 
-* After revewing your interview partner (check their social media site, their process site's: input map, constant i/o interests, and their care package) AND reading the Terry Gross article, design a thoughtful questionaire based on this research.
+5. Post the documentation from your process above, and write a short reflection about it.
 
-* Design 1-2 other mechancisms to extract particular information. Possibilities include specific photo diary prompts (hardest part of their morning, most delightful part of day, most trusted friend, etc); going to their favorite places and studying those locations for 30 minutes noting observations and details; shadowing your partner through various locations of their day that you are not familiar with. See the Universal Methods of Research to broaden your research mechanisms.
 
-* Set up a time to "meet" with your partner within the next 5 days, as well as scheduling in the other research activities.
+### The goals of this assignment:
+
+* (1) To gather a wide variety of information, through various means (RESEARCH, COLLECT, ABSORB...) to broaden your research mechanisms. I'm looking for you to stretch and to develop your skills beyond their current limits. 
+
+* (2) Post interview gatherine: Show your process for thinking of a mechanism to describe this person. Your reseach should be informing this process. 
+
+* (3) Design the mechanism with which to present that information VISUALLY (BRAINSTORM, REMIX, DESIGN, VISUALIZE, SHAPE, FORM, CONNECT, BUILD).
+
+
+Post this to your site under "Early Other Assignments". This includes research notes, questionaires, survey documents, images, sketches, brainstorms, etc. It's important to show ALL the documents that tell *the story of your process*. <--- This is what I'm ultimately grading.
