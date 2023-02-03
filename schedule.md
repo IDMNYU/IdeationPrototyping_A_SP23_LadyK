@@ -89,17 +89,19 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Discuss: </li>
     <ul>
          <li><a href = "classmate_discovery.md">Classmate Discovery Stage 1: Research</a></li>
-        <li><a href = "SketchBook_wk3.md">Discuss sketchbook</a>assignment</li>
+        <li><a href = "SketchBook_wk3.md">Discuss sketchbook</a> assignment</li>
         <li><a href = "Time_Management_System.md"> Time Management System Assignment </a></li>
         <li> Discuss User Studies & The Pocket Universal Methods of Design (TPUMoD) </li>
     </ul>     
 <li>Review Homework</li>
 </td>  
     <td valign="top">
-        <ul>Read: </ul>
+        <li>Read: </li>
+        <ul>
             <li> Show Your Work </li>
         </ul>
-    <ul>Do: </ul>
+    <li>Do: </li>
+    <ul>
     <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
 <li><a href = "classmate_discovery.md">Classmate Discovery Stage 1: Research</a></li> </ul>
