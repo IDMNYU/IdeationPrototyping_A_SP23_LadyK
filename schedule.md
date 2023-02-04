@@ -174,7 +174,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
        <td valign="top">wk 7<p>March 8 & March 20</p></td> </tr>
-    <td valign="top"> 
         <ul>
         <li>Discuss: Homework 
         <li>Research </li>
@@ -192,12 +191,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
-        </td> 
+        </td> </tr>
         <tr>
         <td valign="top"><p>SPRING BREAK March 13-17</p></td></tr>
         <tr>
         <td valign="top">wk 8<p>March 8 & March 20</p></td></tr>
-    <td valign="top"> 
         <ul>
         <li>Discuss: Homework 
         <li>Research </li>
@@ -215,7 +213,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
-        </td>                   
+        </td></tr>                   
 
 
 </table>
