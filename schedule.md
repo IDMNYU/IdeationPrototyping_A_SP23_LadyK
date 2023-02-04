@@ -174,6 +174,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
        <td valign="top">wk 7<p>March 8 & March 20</p></td> 
+         <td>
         <ul>
         <li>Discuss: Homework 
         <li>Research </li>
@@ -196,6 +197,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top"><p> March 13-17</p></td><td>SPRING</td><td>SPRING BREAK</td></tr>
         <tr>
         <td valign="top">wk 8<p>March 8 & March 20</p></td>
+        <td>
         <ul>
         <li>Discuss: Homework 
         <li>Research </li>
