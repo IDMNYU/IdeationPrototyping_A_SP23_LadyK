@@ -172,6 +172,51 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td> 
 </tr>
+<tr>
+       <td valign="top">wk 7<p>March 8 & March 20</p></td> </tr>
+    <td valign="top"> 
+        <ul>
+        <li>Discuss: Homework 
+        <li>Research </li>
+        <li>Concept Maps </li>
+        </ul>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li> FINISH: Show Your Work </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td> 
+        <tr>
+        <td valign="top"><p>SPRING BREAK March 13-17</p></td></tr>
+        <tr>
+        <td valign="top">wk 8<p>March 8 & March 20</p></td></tr>
+    <td valign="top"> 
+        <ul>
+        <li>Discuss: Homework 
+        <li>Research </li>
+        <li>Concept Maps </li>
+        </ul>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li> FINISH: Show Your Work </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td>                   
+
 
 </table>
 
