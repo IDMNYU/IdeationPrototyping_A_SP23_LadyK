@@ -113,12 +113,13 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li> Watch Everything is a Remix </li>
         <li>Discuss: <a href = "classmate_discovery.md">Classmate Discovery Stage 1: Research</a></li>
         <li> Introduction of <a href = "Future.md"> The Future Project </a> </li>
-        <li> Investing The Future in-class exercise </li>
         </ul>
     </td>
      <td valign="top">
         <li>Read: </li>
         <ul>
+            <li>Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the project and the following steps. Do not skip it. <br>
+            You can also read as an [Ebook through the library](https://getit.library.nyu.edu/go/9463476) (log in) </li> 
             <li> Show Your Work </li>
         </ul>
     <li>Do:</li>
@@ -131,10 +132,31 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <td valign="top">wk 5<p>Feb 22 & Feb 27</p></td>
     <td valign="top"> 
         <ul>
-        <li> </li>
         <li>Discuss: <a href = "classmate_discovery.md">Classmate Discovery Stage 2: </li>
-        <li> Discussion <a href = "Future.md"> The Future Project </a> </li>
-        <li> </li>
+        <li> Launch<a href = "Future.md"> The Future Project </a> </li>
+        <li> Investing The Future in-class exercise </li>
+        </ul>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li>Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the project and the following steps. Do not skip it. <br>
+            You can also read as an [Ebook through the library](https://getit.library.nyu.edu/go/9463476) (log in) </li> 
+            <li> Show Your Work </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "classmate_discovery.md">Classmate Discovery Stage 3</a></li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td>
+        <tr>
+<td valign="top">wk 6<p>March 1 & March 6</p></td>
+    <td valign="top"> 
+        <ul>
+        <li>Discuss: <a href = "classmate_discovery.md">Classmate Discovery Stage 3:</li>
+        <li> Discuss<a href = "Future.md"> The Future Project </a> </li>
         </ul>
     </td>
      <td valign="top">
@@ -144,12 +166,12 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </ul>
     <li>Do:</li>
     <ul>
-        <li><a href = "classmate_discovery.md">Classmate Discovery Stage 3</a></li>
-         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk6.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
-        </td><tr>            
-
+        </td> 
+</tr>
 
 </table>
 
