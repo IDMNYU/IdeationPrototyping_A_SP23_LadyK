@@ -157,6 +157,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <ul>
         <li>Discuss: <a href = "classmate_discovery.md">Classmate Discovery Stage 3:</li>
         <li> Discuss<a href = "Future.md"> The Future Project </a> </li>
+        <li>Moodboards</li>
+        <li>Research</li>
         </ul>
     </td>
      <td valign="top">
@@ -175,11 +177,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
        <td valign="top">wk 7<p>March 8 & March 20</p></td> 
          <td>
-        <ul>
-        <li>Discuss: Homework 
-        <li>Research </li>
+        <li>Discuss: Homework </li>
+        <li>In-class exercises </li>
         <li>Concept Maps </li>
-        </ul>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -198,16 +198,15 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <tr>
         <td valign="top">wk 8<p>March 8 & March 20</p></td>
         <td>
-        <ul>
-        <li>Discuss: Homework 
-        <li>Research </li>
-        <li>Concept Maps </li>
-        </ul>
+        <li>Discuss: Homework </li>
+        <li>In-class exercises </li>
+        <li>Timelines</li>
+        <li>Personas</li>
     </td>
      <td valign="top">
         <li>Read: </li>
         <ul>
-            <li> FINISH: Show Your Work </li>
+            <li> Read: Don't Read This Book </li>
         </ul>
     <li>Do:</li>
     <ul>
@@ -215,8 +214,126 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
-        </td></tr>                   
-
+        </td></tr>
+                <tr>
+        <td valign="top">wk 9<p>March 22 & March 27</p></td>
+        <td>
+        <li>Discuss: Homework </li>
+        <li>In-class exercises </li>
+        <li> Storyboards</li>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li> Read: Don't Read This Book </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td></tr>
+        <tr>
+        <td valign="top">wk 10<p>March 29 & April 3</p></td>
+        <td>
+        <li>Discuss: Homework </li>
+        <li>In-class exercises </li>
+        <li>Artifact/Object</li>
+        <li> Discussion: Final Presentation</li>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li> Read: Don't Read This Book </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
+         <li>Prepare Constant Input/Constant Ouput Presentation</li> 
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td></tr>                       
+<tr>
+        <td valign="top">wk 11<p>April 5 & 10</p></td>
+        <td>
+        <li>Constant Input/Output Presentations </li>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li> Read: Don't Read This Book </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td></tr> 
+        <tr>
+        <td valign="top">wk 12<p>April 12 & 17</p></td>
+        <td>
+        <li>Final Presentation Dry Run/Dress Rehearsal</li>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li> Read: Don't Read This Book </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td></tr>
+        <tr>
+        <td valign="top">wk 13<p>April 19 & 24</p></td>
+        <td>
+        <li>In class exercises</li>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li> Read: Don't Read This Book </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td></tr>
+        <tr>
+        <td valign="top">wk 14<p>April 26 & May 1</p></td>
+        <td>
+        <li>In class exercises</li>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li> Read: Don't Read This Book </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    </ul>
+        </td></tr> 
+        <tr>
+        <td valign="top">wk 14<p>May 3 & 8</p></td>
+        <td>
+        <li>Final Presentations</li>
+    </td>
+     <td valign="top">
+        <li>Read: </li>
+        <ul>
+            <li> Read: Don't Read This Book </li>
+        </ul>
+    <li>Do:</li>
+    <ul>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+    </ul>
+        </td></tr>       
 
 </table>
 
