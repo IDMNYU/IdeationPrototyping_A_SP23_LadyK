@@ -89,9 +89,14 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Discuss: </li>
     <ul>
          <li><a href = "classmate_discovery.md">Classmate Discovery Stage 1: Research</a></li>
+          <li> Discuss Research + User Studies & The Pocket Universal Methods of Design (TPUMoD) </li>
         <li><a href = "SketchBook_wk3.md">Discuss sketchbook</a> assignment</li>
         <li><a href = "Time_Management_System.md"> Time Management System Assignment </a></li>
-        <li> Discuss User Studies & The Pocket Universal Methods of Design (TPUMoD) </li>
+        <li>Creativity & Assumptions & James Webb Young</li>
+        <li>What is your Process </li>
+        <li>Screening : The Creative Brain by David Eagleman</li>
+        <li>Cabinets of Curiosities & Collecting </li>
+        <li> Research: Looking + Observing</li>
     </ul>     
 <li>Review Homework</li>
 </td>  
@@ -110,9 +115,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <td valign="top">wk 4<p>Feb 13 & Feb 15</p></td>
     <td valign="top"> 
         <ul>
-        <li> Watch Everything is a Remix </li>
         <li>Discuss: <a href = "classmate_discovery.md">Classmate Discovery Stage 1: Research</a></li>
-        <li> Introduction of <a href = "Future.md"> The Future Project </a> </li>
+        <li> Watch Everything is a Remix </li>
+        <li> SCAMPER Technique</li>
         </ul>
     </td>
      <td valign="top">
@@ -133,8 +138,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"> 
         <ul>
         <li>Discuss: <a href = "classmate_discovery.md">Classmate Discovery Stage 2: </li>
-        <li> Launch<a href = "Future.md"> The Future Project </a> </li>
-        <li> Investing The Future in-class exercise </li>
+        <li> Introduction of <a href = "Future.md"> The Future Project </a> </li>
+        <li> Discussion + Launch<a href = "Future.md"> The Future Project </a> </li>
+        <li> Investing The Future Game </li>
         </ul>
     </td>
      <td valign="top">
@@ -196,7 +202,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <tr>
         <td valign="top"><p> March 13-17</p></td><td>SPRING</td><td>SPRING BREAK</td></tr>
         <tr>
-        <td valign="top">wk 8<p>March 8 & March 20</p></td>
+        <td valign="top">wk 8<p>March 22 & March 27</p></td>
         <td>
         <li>Discuss: Homework </li>
         <li>In-class exercises </li>
@@ -216,7 +222,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
                 <tr>
-        <td valign="top">wk 9<p>March 22 & March 27</p></td>
+        <td valign="top">wk 9<p>March 29 & April 3</p></td>
         <td>
         <li>Discuss: Homework </li>
         <li>In-class exercises </li>
@@ -235,7 +241,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 10<p>March 29 & April 3</p></td>
+        <td valign="top">wk 10<p>April 5 & 10</p></td>
         <td>
         <li>Discuss: Homework </li>
         <li>In-class exercises </li>
@@ -256,7 +262,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>                       
 <tr>
-        <td valign="top">wk 11<p>April 5 & 10</p></td>
+        <td valign="top">wk 11<p>April 12 & 17 </p></td>
         <td>
         <li>Constant Input/Output Presentations </li>
     </td>
@@ -272,7 +278,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr> 
         <tr>
-        <td valign="top">wk 12<p>April 12 & 17</p></td>
+        <td valign="top">wk 12<p>April 19 & 24</p></td>
         <td>
         <li>Final Presentation Dry Run/Dress Rehearsal</li>
     </td>
@@ -288,7 +294,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 13<p>April 19 & 24</p></td>
+        <td valign="top">wk 13<p>April 26 & May 1</p></td>
         <td>
         <li>In class exercises</li>
     </td>
@@ -304,34 +310,15 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 14<p>April 26 & May 1</p></td>
-        <td>
-        <li>In class exercises</li>
-    </td>
-     <td valign="top">
-        <li>Read: </li>
-        <ul>
-            <li> Read: Don't Read This Book </li>
-        </ul>
-    <li>Do:</li>
-    <ul>
-        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
-    </ul>
-        </td></tr> 
-        <tr>
         <td valign="top">wk 14<p>May 3 & 8</p></td>
         <td>
-        <li>Final Presentations</li>
+        <li>Final Future Presentations</li>
     </td>
      <td valign="top">
-        <li>Read: </li>
-        <ul>
-            <li> Read: Don't Read This Book </li>
-        </ul>
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+        <li><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important</a></li>
     </ul>
         </td></tr>       
 
