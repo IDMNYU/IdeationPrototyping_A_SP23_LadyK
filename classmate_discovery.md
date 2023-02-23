@@ -9,7 +9,7 @@
 ## Delivery dates:
 ### *Stage 1: Feb 12*
 ### *Stage 2: Feb 19*
-### *Stage 3: Feb 26*
+### *Stage 3: ~~Feb 26~~ Feb 28*
 __________________________________________
 
 ### Overview:
@@ -42,7 +42,7 @@ ___________________
 
 ____________________
 
-### Stage Three: Brainstorm & Ideate about the map metaphor    *Due Feb 26*
+### Stage Three: Brainstorm & Ideate about the map metaphor    *Due Feb ~~26~~ 28*
 
 1. Considering your research from Stage 1 & 2, conduct 2-3 brainstorming or ideation exercises that we have discussed in class _regarding the map metaphor_. This could be "How might we...", 5 Why's, Bad Idea Brainstorm, or Crazy Eights. Mind-map different mechanisms. Go deeper to explore each. Sketch and post about these. Give us context.
 

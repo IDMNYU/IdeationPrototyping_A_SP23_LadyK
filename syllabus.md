@@ -127,7 +127,7 @@ There will be discrete team and individual exercises and projects that require y
 * Study outside of class (ideally with classmate(s)
 * Devote at a minimum 6 - 8 hours per week - of well organized time - outside of class: fulfilling homework assignments, reading, and studying concepts covered in class.
 * Consult slack at least twice a week for up to date info. Ideally towards the end of the week.
-* Complete all assignments and post to your site by due dates and time deadlines - Sunday 2pm EST
+* Complete all assignments and post to your site by due dates and time deadlines - ~~Sunday~~ TUESDAY 2pm EST
 * Participation is not limited to the assignments that you turn in. Participation also includes not only your presence in class, but your questions, feedback and dialog. Do not fall into the trap of being lazy during class and never vocalizing your presence. Lean in and be present. If you have a question, someone else does too. You vocalizing your questions helps others to do the same. You must be active in class.
 * Acquire and read all assigned readings before they are due
 * Do. not. do. your. homework. in. one. sitting. Do not do it all the night before its due. Start it early to give yourself time to ask questions and get answers. Review the Letters to The Next CoHort!
@@ -230,7 +230,7 @@ Late work is not accepted, as this course is about process, namely, regularly we
 You must do the assignments, in the order that they are assigned. Each is strategically placed within the semester. They work together like building
 blocks. Thus, they cannot be skipped as you will not have the pieces to work with for the subsequent assignment.
 
-Process sites are reviewed and assessed weekly. Work is due on **Sundays by 2pm EST.** You are welcome to post it earlier than this. Work posted after that will go towards the following week, and be reviewed next Sunday evening. This put you behind, as your work will not be reviewed in time. A record is made for the missing work, as this effects your overall grade and your opportunity to progress.
+Process sites are reviewed and assessed weekly. Work is due on **~~Sundays~~ TUESDAY by 2pm EST.** You are welcome to post it earlier than this. Work posted after that will go towards the following week, and be reviewed next <strike>Sunday</strike> TUESDAY evening. This put you behind, as your work will not be reviewed in time. A record is made for the missing work, as this effects your overall grade and your opportunity to progress.
 
 Late work beyond two weeks is submitted only under the advisement of the professor. Please contact me to discuss this with me. It's critical to strategize. I will advise you how to move through the material. Office hours are great for this.
 
@@ -312,7 +312,7 @@ See Appendix
 
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. 
 
-Post all homework assignments to your Process Site by Sunday 2pm EST. Period. Otherwise, they are considered late. When you post, post not just images, but a short discussion outlining what happened and what you gained. Give us context. Tell us what this is about. Tell us what you are thinking. Tell us what you are thinking. Where might you go next? What next might you do?
+Post all homework assignments to your Process Site by <strike>Sunday</strike> TUESDAY 2pm EST. Period. Otherwise, they are considered late. When you post, post not just images, but a short discussion outlining what happened and what you gained. Give us context. Tell us what this is about. Tell us what you are thinking. Tell us what you are thinking. Where might you go next? What next might you do?
 
 Context and discussion of each assignment is addressed within the assigned modules and class. Make sure to read each module and be attentive in class, so as to complete each assignment appropriately. You can also ask questions in the assignment_questions channel in Slack. Public conversation is great! Your questions help everyone learn!
 

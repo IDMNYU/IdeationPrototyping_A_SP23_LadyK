@@ -12,7 +12,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <th width="8%">wk</th>
     <th width="46%">Class</th>
-    <th width="46%">Do For Homework <br> <br>(Assigned on Date Listed and due the following Sunday 14:00/ 2pm EST)</th>
+    <th width="46%">Do For Homework <br> <br>(Assigned on Date Listed and due the following ~~Sunday~~ TUESDAY 14:00/ 2pm EST)</th>
 </tr>
 <tr>
     <td valign="top">wk 1<p>Jan 23 & Jan 25</p></td>
