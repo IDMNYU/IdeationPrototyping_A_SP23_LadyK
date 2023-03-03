@@ -15,12 +15,8 @@
 
 - Fill half a page showing this character in a variety of positions and movements (20+ positions). These are meant to be kinda quick and easy, once you get your bearing.
 
-- Using a mirror, sketch your wire frame in a variety of poses. Watch your angles, position. These are meant to be kinda quick and easy, once you get your bearing. Draw 10 poses.
 
-- Draw a simplified hand in 5 different positions
 
-- Draw your hand twice; Once in a study of shape and proportion in a position. The other a bit more blocking thinking/focusing on the bone and muscle structure below to guide you;
 
-- Draw a sketch of your hand interacting with something. Convey motion/history, direction and grip. Going further: do a second one (things get better on a second go).
 
 
