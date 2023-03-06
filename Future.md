@@ -7,7 +7,7 @@
 
 For our final project, The Future, you will be creating a speculative design project. This project can be done as a team or as an individual.
 
-This document stands as an overview of the project. Please refer to the [Future Weekly Briefing](Future_WeeklyBrief.md) to see how to develop this project over the subsequent weeks.
+This document stands as an overview of the project. Please refer to the [Future Weekly Briefing](Future_weeklyBrief.md) to see how to develop this project over the subsequent weeks.
 
 Imagine our civilization at least 30 years from now. Things have either collapsed beyond repair or life has become a harmonious dream. Through some crazy combination of wormholes and string theory, you have the opportunity to create a piece of information that will be sent back to the current population.
 
