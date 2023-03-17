@@ -1,17 +1,19 @@
-### DM-UY 1143 A Ideation and Prototyping
+  ### DM-UY 1143 A Ideation and Prototyping
 ##### Spring 2023 • Katherine Bennett • Mon/Wed 2:00PM-3:50PM • 370 Jay Room 311
 
 # [Future Project](Future.md)
 
 ### Semester Week 7a | Week 2: Future Project - Cardsorting, Defining and Supporting
 
-** CardSorting Exercise (see below): Do this exercise 2-3 times. It may take a couple go's to get the hang of it. The third time may help you land on something solid. DO THIS. Do not do it in one sitting. Spread it out. Let your brain rest. Students that rush this end up with projects they don't like, aren't supported and flat. You don't want this.
+> #### Do the following things. Find the order that works for you. Some may want to do the Card Sorting Exercise first. Some may want to review their 5 elements first. Either way, do all the steps below.
 
-** Reflecting on your 5 Elements, do a mindmap or lists for 2-3 of them, defining each. Get more specific and descriptive. Let your minds run here. The lists and maps should have density and some levels to them. (you will do the remainder elements in the following week).
+> - CardSorting Exercise (see below): Do this exercise 2-3 times. The goal of this exercises is to find your core theme that you will explore through your world. It may take a couple go's to get the hang of it. The third time may help you land on something solid. DO THIS. Do not do it in one sitting. Spread it out. Let your brain rest. Students that rush this end up with projects they don't like, aren't supported and flat. You don't want this.
 
-** Research: Find 5 specific resources after the exercises above, which help to support and develop your ideas (vocabulary, depth, context). ANNOTATE them (a small blurb describing their specific value, especially towards your project). Especially look into contemporary newspapers from highly regarded/reputable publications. Your future self will thank you.
+> - Reflecting on your 5 Elements, do a mindmap or lists for 2-3 of them, defining each. Get more specific and descriptive. Let your minds run here. The lists and maps should have density and some levels to them. (you will do the remainder elements in the following week). *Remember the elements are things that exist in your world; Describe how your world functions, etc. They are not necessarily directly related to your theme (but they could be)*
 
-Lastly, Write a post telling us where you are at. What is your idea (or top ideas) so far (CardSorting)? What new developments did you realize from the work completed with your elements?
+> - Research: Find 5 specific resources after the exercises above, which help to support and develop your ideas (vocabulary, depth, context). ANNOTATE them (a small blurb describing their specific value, especially towards your project). Especially look into contemporary newspapers from highly regarded/reputable publications. Your future self will thank you.
+
+> - Lastly, Write a post telling us where you are at. What is your idea (or top ideas) so far (CardSorting)? What new developments did you realize from the work completed with your elements?
 
 #### Card Sorting exercise as outlined in class. Capture clear visual documentation of the exercise and post to your Process site (under the Future/Final tab),  along with a written reflection articulating the 3 outcomes that you generated.
 
