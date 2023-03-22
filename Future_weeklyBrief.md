@@ -3,7 +3,23 @@
 
 # [Future Project](Future.md)
 
-### Semester Week 7a | Week 2: Future Project - Cardsorting, Defining and Supporting
+
+### Semester Week 8 | Week 3: Future Project - Cardsorting, Defining and Supporting
+
+1. If you need to, do another round of cardsorting. Document your process
+
+2. Do a detailed mind-map of your idea, specifically exploring your theme/idea. What is needed for your theme to happen? What does your idea require? What causes all of these things? what are the results? What are the trickle down effects of your theme/idea?
+
+3. Start a mood board (draft) which illustrates your world in all of it's aspects visually. Get specific. Draw some of these things!
+
+4. Start a concept map (draft) which explores the causal relations between things in your world. You can even begin creating events.
+
+5. Gather at least 3 resources in relation to your theme/idea and add these to your annotated bibliography
+
+6. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further.
+
+
+### Semester Week 7 | Week 2: Future Project - Cardsorting, Defining and Supporting
 
 > #### Do the following things. Find the order that works for you. Some may want to do the Card Sorting Exercise first. Some may want to review their 5 elements first. Either way, do all the steps below.
 
