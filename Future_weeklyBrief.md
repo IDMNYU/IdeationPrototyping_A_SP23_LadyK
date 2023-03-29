@@ -3,6 +3,23 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 9 | Week 4: Future Project - Cardsorting, Defining and Supporting
+
+1. Do a detailed mind-map of your idea, specifically exploring your theme/idea. Do not relate/connect it to everything else in your world (unless it naturally happens). The point is to go deeper into your idea.
+
+2. Finish the newspaper front page. This shows the front page of a newspaper talking about a diversity of activity and events across your world, countries, cities; and across cultural elements. Look at the New York Times front page to get ideas of the scope that this should cover. Create headlines for the articles. You can also include bullet points or tag lines and simple drawings to communicate what's going on.
+
+3. Post your Project Radar. In the center of your radar should be your core idea. In the various other concentric circles should be other aspects of your world (ie your elements).
+
+4. Do another version of your concept map, if you've been directed. The concept map shows the inputs and outputs, cause and effect, requirements and generations with regards to your IDEA (not world).
+
+5. Create a draft stakeholder map, of all the significant people in your world. Specify their role with labels. Create a speech bubble for each specifiying their mindset.
+
+6. Create a draft of a timeline listing various events in your world. Start with your idea. List in other aspects and events in your world.
+
+7. Write a summary of where you are at, new discoveries, changes, developments and questions.
+
+
 
 ### Semester Week 8 | Week 3: Future Project - Cardsorting, Defining and Supporting
 

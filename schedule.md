@@ -227,7 +227,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td>
         <li>Discuss: Homework </li>
         <li>In-class exercises </li>
-        <li> Storyboards</li>
+        <li> Stakeholders </li>
+        <li> Timelines </li>
     </td>
      <td valign="top">
         <li>Read: </li>
