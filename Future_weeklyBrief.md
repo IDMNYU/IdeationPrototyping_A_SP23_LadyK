@@ -3,6 +3,14 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 10 | Week 5: Future Project - Research, Brainstorming
+
+1. Post the outcomes of the class exercises (Future Business, Person in your future, Emotions, Artifacts Game). Write a short reflection on the developments and impact towards your project.
+
+2. Follow the personal prescription in your feedback given last Tuesday on what you need to do for this week. If you did not get feedback, that means you work was posted late. Please dm me as to how you should move forward.
+
+
+
 ### Semester Week 9 | Week 4: Future Project - Cardsorting, Defining and Supporting
 
 1. Do a detailed mind-map of your idea, specifically exploring your theme/idea. Do not relate/connect it to everything else in your world (unless it naturally happens). The point is to go deeper into your idea.
