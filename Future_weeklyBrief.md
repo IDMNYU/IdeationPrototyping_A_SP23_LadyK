@@ -13,6 +13,9 @@
 
 4. Brainstorm, Ideate and Sketch for your Artifact 
 
+5. Write a reflection of where you are at. What are the new developments? What are you struggling with? Tell us!
+
+
 ### Semester Week 10 | Week 5: Future Project - Research, Brainstorming
 
 1. Post the outcomes of the class exercises (Future Business, Person in your future, Emotions, Artifacts Game). Write a short reflection on the developments and impact towards your project.
