@@ -276,6 +276,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+        <li>Read the Letters From The Last Cohort (midterms) found in Slack and write a reflection regarding what you have taken from them regarding your own work.</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
         </td></tr> 
