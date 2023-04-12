@@ -266,7 +266,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
         <td valign="top">wk 11<p>April 12 & 17 </p></td>
         <td>
-        <li>Constant Input/Output Presentations </li>
+            <li> In-class exercises </li>
+        <li>Constant Input/Output Presentations April 17th</li>
     </td>
      <td valign="top">
         <li>Read: </li>

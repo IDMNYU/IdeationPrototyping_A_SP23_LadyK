@@ -13,7 +13,9 @@
 
 4. Brainstorm, Ideate and Sketch for your Artifact 
 
-5. Write a reflection of where you are at. What are the new developments? What are you struggling with? Tell us!
+5. If you like, begin to draft a loose story for your storyboard. Note you will only submit a storyboard (not a paper/story).
+
+6. Write a reflection of where you are at. What are the new developments? What are you struggling with? Tell us!
 
 
 ### Semester Week 10 | Week 5: Future Project - Research, Brainstorming
