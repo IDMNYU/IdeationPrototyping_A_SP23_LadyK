@@ -3,6 +3,16 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 11 | Week 6: Future Project - Develop
+
+1. Upload the documents from the exercises in class
+
+2. Follow the personal prescription (see exercises and reference docs in Slack)
+
+3. Develop a draft of your personas
+
+4. Brainstorm, Ideate and Sketch for your Artifact 
+
 ### Semester Week 10 | Week 5: Future Project - Research, Brainstorming
 
 1. Post the outcomes of the class exercises (Future Business, Person in your future, Emotions, Artifacts Game). Write a short reflection on the developments and impact towards your project.
