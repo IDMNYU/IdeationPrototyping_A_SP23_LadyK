@@ -3,6 +3,25 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 12 | Week 7: Future Project - Iterations + The Story
+
+1. Upload any documents from the in-class exercises
+
+2. If you've been advised in your feedback, follow that prescription. If you didn't recieve any feedback dm me when your posts for Week 11 are posted.
+
+3. What's developed lately? Exapnd your mood board and timeline to reflect this. Translate your timeline to a high-fidelity timeline using software (there are many choices out there). 
+
+4. Iterate your personas if necessary
+
+5. Prototype your artifact using low-fi three-dimensional methods (cardboard + hot glue, legos, etc)
+
+6. Draft a storyboard. Think more of a conflict. This is not about how your world came into being. This is through the eyes of a person in your world.
+
+7. Brain storm final presentation methods. Think wide + large
+
+8. Post these new documents as well as a reflection of where you are at. What do you sense is a weak point? Where do you need help?
+
+
 ### Semester Week 11 | Week 6: Future Project - Develop
 
 1. Upload the documents from the exercises in class
