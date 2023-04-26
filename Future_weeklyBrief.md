@@ -3,6 +3,38 @@
 
 # [Future Project](Future.md)
 
+### Semester Week 13 | Week 8: Future Project - Iterations + Ideation + Development towards the Final & Presentation
+
+1. If you've been advised in your feedback, follow that prescription. If you didn't recieve any feedback dm me when your posts for Week 11 are posted. I am off the grid Th/Fri and part of Saturday. 
+
+
+2. Ideate and develop your final presentation. Do research on the mechanism/metaphor. Try to be ready for a dry-run/dress rehearsal for Monday. Do a storyboard of the final presentation, mapping it out.
+
+
+3. Iterate your artifact to a higher fidelity
+
+
+4. Document and Post about your process
+
+ps. Add resources as you develop things.
+
+Everyone should have:
+
+- Mind maps
+- Concept Maps
+- Sketch of artifact
+- Low-fi 3D prototype of artifact
+- High-fi 3D prototype of artifact
+- Storyboards
+- Moodboard
+- High Fidelity Timeline
+- Personas & Empathy Maps
+- Annotated Bibliography
+- Documentation of all processes
+
+
+
+
 ### Semester Week 12 | Week 7: Future Project - Iterations + The Story
 
 1. Upload any documents from the in-class exercises
