@@ -322,7 +322,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-        <li><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important</a></li>
+        <li><strong><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important --> May 14 12:00 EST</a><strong></li>
     </ul>
         </td></tr>       
 
